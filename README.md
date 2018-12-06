@@ -19,7 +19,7 @@ Make time tracking a productive habit! The Time Shark pylon is a visible reminde
 # Focus on the Important Stuff Most
 Studies show that 80% of your productivity comes from 20% of your time. Discover your most valuable activities and focus on them.
 
-# Tear Thru of wasted time
+# Tear, Shred, Bite Thru wasted time
 How much time are you actually spending with emails, non-essential meetings and unplanned interruptions? Find out with Time Shark and take action.
 
 # How Time Shark Works
@@ -64,7 +64,7 @@ Weekly Time Report
 Enterprise API available
 
 
-# How to setup the device
+# How to setup the pylon
 
 First, pair the Time Pylon with laptop over Bluetooth
 
