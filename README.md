@@ -68,13 +68,14 @@ Enterprise API available
 
 First, pair the Time Pylon with laptop over Bluetooth
 
-1 Goto System prefs -> Bluetooth
-2 Turn on device (bluetooth LED rapid flashing)
-3 Wait ~10s for HC-05 to appear
-4 Click "Pair" with HC-05. Note: first attempt will fail
-5 Click "Options..."
-6 Enter 1234 for access code & click connect
-7 Bluetooth is now ready
+1. Goto System prefs -> Bluetooth
+2. Turn on device (bluetooth LED rapid flashing)
+3. Wait ~10s for HC-05 to appear
+4. Click "Pair" with HC-05. Note: first attempt will fail
+5. Click "Options..."
+6. Enter 1234 for access code & click connect
+7. Bluetooth is now ready
+
 
 to start Time Pylon "Device" server:
 $ npm run go
