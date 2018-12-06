@@ -78,4 +78,6 @@ First, pair the Time Pylon with laptop over Bluetooth
 
 
 to start Time Pylon "Device" server:
+```
 $ npm run go
+```
