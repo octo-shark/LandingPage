@@ -23,7 +23,7 @@ Studies show that 80% of your productivity comes from 20% of your time. Discover
 How much time are you actually spending with emails, non-essential meetings and unplanned interruptions? Find out with Time Shark and take action.
 
 # How Time Shark Works
-1. Define - Set up what you want to track and customize your Time Shark tracker device & software.
+1. Define - Set up what you want to track and customize your Time Shark pylon & software.
 2. Track - Connect the pylon via Bluetooth and the software tracks the project that is face up.
 3. Analyze - Use our useful statistics and charts to get insights into how you use your time.
 
@@ -34,7 +34,7 @@ You take the Time Shark pylon turn it to where you want to work. Then you get a 
 Create and assign new tasks & color to the device with a simple click. All previous tasks are kept.
 
 ## Powerful Desktop and Mobile Apps
-Track time entries without the Time Shark device, even on the go.
+Track time entries without the Time Shark device, even on the go with our Mobile App (Progressive Web App)
 
 ## API Access
 All data is available via our API.
